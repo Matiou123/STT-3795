@@ -1,2 +1,2 @@
 # STT-3795
-Cours hiver 2025
+Fondements théoriques en science des données
